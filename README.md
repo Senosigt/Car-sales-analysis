@@ -28,8 +28,12 @@ REVENUES is tied to year model and brand loyalty , customers dont  buy cars beca
  Microsoft Power point for presentation
 
 # Repository structure Data 
+
 Project description and raw data: csv file and case study 
+
 Project planning: Miro flow chart and Gantt chart
+
 Data processing: SQL file and Excel analysis file
+
 Project presentation: Project Presentation and Dashboard
 
