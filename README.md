@@ -17,10 +17,14 @@ Q2 contributes 30% of revenue
 85% of the cars sold are automatic transmission
 Most selling colors, Black, white, silver, gray, blue and red. Less selling lime pink and turquoise
 REVENUES is tied to year model and brand loyalty , customers dont  buy cars because of their condition or odometer
+
 # Tools and technologies
  Snowflake for data extraction and manipulation
+ 
  Miro for planning flowchart
+ 
  Microsoft Excel for data analysis and visualization 
+ 
  Microsoft Power point for presentation
 
 # Repository structure Data 
